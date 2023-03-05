@@ -1,0 +1,18 @@
+#root {
+  width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+video {
+  height: 400px;
+}
+
+.seek-bar {
+  display: flex;
+}
+
+.seek-bar input {
+  flex-grow: 1;
+}
